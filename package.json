@@ -1,0 +1,19 @@
+{
+  "name": "segundaentrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "dev": "sass style.scss style.css -w --no-source-map -s compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clxsa/proyectosantino.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clxsa/proyectosantino/issues"
+  },
+  "homepage": "https://github.com/clxsa/proyectosantino#readme"
+}
